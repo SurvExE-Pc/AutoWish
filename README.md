@@ -12,7 +12,7 @@ To start wishing run **autoWish.wish()** in the console, to stop run **autoWish.
 ##  
 When changing banners after you switch banner **you must reload and rerun the entire script**.
 ## Version
-This app is currently in v1.0 
+This app is currently in v1.1 
 
 ### Viewing the source
 and you can view the un base64 source by decoding the base64 that is decoded and then ran by eval.
